@@ -11,7 +11,7 @@ The goal is to generate personalized recommendations, identify purchasing patter
 
 ## File Structure
 - **SOEN471_Assignment_2.ipynb** Jupyter Notebook containing all the Python code for analysis
-- **ecommerce_user_data.csv** 742 rows of user-product interaction data (UserID, ProductID, Rating, Timestamp, Category)
+- **ecommerce_user_data.csv** 724 rows of user-product interaction data (UserID, ProductID, Rating, Timestamp, Category)
 - **product_details.csv** 100 rows of product metadata (ProductID, ProductName, Category)
 - **README.md** This file
 
