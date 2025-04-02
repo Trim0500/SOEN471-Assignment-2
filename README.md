@@ -9,6 +9,12 @@ This project implements and evaluates two techniques for e-commerce analytics us
 
 The goal is to generate personalized recommendations, identify purchasing patterns, visualize insights, and evaluate the implemented systems.
 
+## File Structure
+- **SOEN471_Assignment_2.ipynb** Jupyter Notebook containing all the Python code for analysis
+- **ecommerce_user_data.csv** 742 rows of user-product interaction data (UserID, ProductID, Rating, Timestamp, Category)
+- **product_details.csv** 100 rows of product metadata (ProductID, ProductName, Category)
+- **README.md** This file
+
 ## Dependencies & Setup
 
 1.  **Clone the repository or download the project files into your python environment.**
